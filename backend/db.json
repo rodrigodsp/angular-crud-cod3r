@@ -11,14 +11,14 @@
       "price": 12000.89
     },
     {
-      "name": "Geladeira",
-      "price": "5500.00",
-      "id": 3
-    },
-    {
       "name": "Lápis Preto",
       "price": "10.00",
       "id": 8
+    },
+    {
+      "name": "Celular Samsung S4",
+      "price": "800.00",
+      "id": 9
     }
   ]
 }
